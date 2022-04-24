@@ -1,12 +1,11 @@
 # Сравнительный анализ аналогов bash, ansible, kubectl
-В данных текстовых файлах будут представлены аналоги языков и их сравнение.
 
 ## О чем говорилось 
-> О Skaffold - https://habr.com/ru/company/flant/blog/474692/
+> О [Skaffold](https://github.com/RomashovVs/dell-compare-analysis/blob/main/Skaffold.md/)
 >
-> О Kustomize - https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/
+> О [Kustomize](https://github.com/RomashovVs/dell-compare-analysis/blob/main/Kustomize.md)
 >
-> О helmfile - https://tanzu.vmware.com/developer/guides/helmfile-what-is/, https://kubesandclouds.com/index.php/2020/12/16/helmfile/, https://habr.com/ru/post/491108/
+> О [Helmfile](https://github.com/RomashovVs/dell-compare-analysis/blob/main/Helmfile.md)
 
 ## Что я посмотрел
 > Альтернативы kubectl(kubernetes) - https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-alternatives/
