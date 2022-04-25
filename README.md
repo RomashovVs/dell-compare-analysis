@@ -13,4 +13,4 @@
 > [Аналоги Ansible](https://github.com/RomashovVs/dell-compare-analysis/blob/main/Ansible-alternatives.md)
 > 
 > [Аналоги оболочки bash](https://github.com/RomashovVs/dell-compare-analysis/blob/main/Bash-alternatives.md)
----
+
