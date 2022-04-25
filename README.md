@@ -8,9 +8,9 @@
 > О [Helmfile](https://github.com/RomashovVs/dell-compare-analysis/blob/main/Helmfile.md)
 
 ## Что я посмотрел
-> Альтернативы kubectl(kubernetes) - https://www.aquasec.com/cloud-native-academy/kubernetes-101/kubernetes-alternatives/
+> [Альтернативы kubectl(kubernetes)](https://github.com/RomashovVs/dell-compare-analysis/blob/main/Kubernetes-alternatives.md)
 > 
-> Аналоги Ansible - https://habr.com/ru/post/211306/
+> [Аналоги Ansible](https://github.com/RomashovVs/dell-compare-analysis/blob/main/Ansible-alternatives.md)
 > 
-> Аналоги оболочки bash - https://habr.com/ru/post/157283/
+> [Аналоги оболочки bash](https://github.com/RomashovVs/dell-compare-analysis/blob/main/Bash-alternatives.md)
 ---
